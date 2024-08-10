@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Epitafiubździu"
+title: "Epitafiubździu"
 slug: "epitafiubzdziu"
-date:   2012-02-22
+date: 2012-02-22
 ---
 Opuszczam mej pani gaik,<br>
 spoglądam z góry na szczęście<br>
