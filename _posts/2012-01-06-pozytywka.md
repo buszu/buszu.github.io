@@ -3,8 +3,9 @@ layout: post
 title: "Pozytywka"
 slug: "pozytywka"
 date: 2012-01-06
+excerpt: "Stragan. Dużo ciekawych przedmiotów, jeszcze więcej chłamu. Między nimi ja – instrument. Nienawidziłem tego miejsca. Podchodzą, odchodzą, podchodzą, odchodzą…"
 ---
-Stragan. Dużo ciekawych przedmiotów, jeszcze więcej chłamu. Między nimi ja – instrument. Nienawidziłem tego miejsca. Podchodzą, odchodzą, podchodzą, odchodzą… Nakręcają, choć nawet nie posłuchają. Obmacują i odkładają na miejsce – zupełnie jak z kurwą. Potem kupują jakąś tandetną pamiątkę: dwanaście pięćdziesiąt, dziękuję uprzejmie, życzymy miłego dnia.<br>
+Stragan. Dużo ciekawych przedmiotów, jeszcze więcej chłamu. Między nimi ja – instrument. Nienawidziłem tego miejsca. Podchodzą, odchodzą, podchodzą, odchodzą… Nakręcają, choć nawet nie posłuchają. Obmacują i odkładają na miejsce. Potem kupują jakąś tandetną pamiątkę: dwanaście pięćdziesiąt, dziękuję uprzejmie, życzymy miłego dnia.<br>
 <br>
 Ty. Byłaś inna, potrafiłaś przysłuchać się dłużej, potrafiłaś nawet razem ze mną zanucić. Kiedy wzięłaś mnie ze sobą, byłem najszczęśliwszy. Chciałem grać tylko tobie. I grałem jakiś czas. Potem, kiedy pojawił się on, nie słuchałaś już tak często. Potem, kiedy spadłem na podłogę i moja obudowa rozsypała się w drobny mak, myślałem, że nie można już spaść niżej. Potem wylądowałem – w piwnicy.<br>
 <br>
