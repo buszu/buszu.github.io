@@ -3,6 +3,9 @@ layout: post
 title: "interpretacja_dowolna.rb"
 slug: "interpretacja_dowolna-rb"
 date: 2014-08-08
+excerpt: '<pre>begin
+# Być czy nie być? Też mi zagadka.
+</pre>'
 ---
 {% highlight ruby %}begin
   # Być czy nie być? Też mi zagadka.
