@@ -3,6 +3,9 @@ layout: post
 title: Lunatyczka
 slug: lunatyczka
 date: 2023-10-07
+image:
+  path: /assets/images/lunatyczka.png
+  alt: Okładka wiersza Lunatyczka
 excerpt: "na parapecie świata<br>
 śniłaś smak księżyca<br>
 sok pomarańczowy"

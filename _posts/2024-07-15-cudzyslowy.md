@@ -3,6 +3,9 @@ layout: post
 title: Cudzysłowy
 slug: cudzyslowy
 date: 2024-07-15
+image:
+  path: /assets/images/cudzyslowy.png
+  alt: Okładka wiersza Cudzysłowy
 excerpt: "Choć jeszcze nie dzisiaj odejść nam pora,<br>
 niepostrzeżenie czas wbija swe szpilki,<br>
 coraz mądrzejsi, lecz wczoraj"

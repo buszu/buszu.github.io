@@ -3,6 +3,9 @@ layout: post
 title: Space Invasion
 slug: space-invasion
 date: 2016-07-17
+image:
+  path: /assets/images/space_invasion.png
+  alt: Okładka wiersza Space Invasion
 excerpt: "Marsjanie żyli w spokoju, szczęściu i dostatku,<br>
 Pasali kosmoświnie na polach gwiezdnych bratków.<br>
 Mieli zielone oczka i odstające uszka"

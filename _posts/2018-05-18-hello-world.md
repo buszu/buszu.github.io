@@ -3,6 +3,9 @@ layout: post
 title: Hello, World!
 slug: hello-world
 date: 2018-05-18
+image:
+  path: /assets/images/hello-world.png
+  alt: Okładka wiersza Hello, World!
 excerpt: "znudził mnie język robotów tymczasem<br>
 nic nas nie łączy już, żaden kabel<br>
 zamykam na zawsze stalowy klaser"

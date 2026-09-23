@@ -3,6 +3,9 @@ layout: post
 title: Don Kichot
 slug: don-kichot
 date: 2019-12-02
+image:
+  path: /assets/images/don-kichot.png
+  alt: Okładka wiersza Don Kichot
 excerpt: "Zwykle nie chodzę na skróty, ale<br>
 jestem błędnym rycerzem<br>
 A.D. 2019"

@@ -3,6 +3,9 @@ layout: post
 title: "Pozytywka"
 slug: "pozytywka"
 date: 2012-01-06
+image:
+  path: /assets/images/pozytywka.png
+  alt: Okładka opowiadania Pozytywka
 excerpt: "Stragan. Dużo ciekawych przedmiotów, jeszcze więcej chłamu. Między nimi ja – instrument. Nienawidziłem tego miejsca. Podchodzą, odchodzą, podchodzą, odchodzą…"
 ---
 Stragan. Dużo ciekawych przedmiotów, jeszcze więcej chłamu. Między nimi ja – instrument. Nienawidziłem tego miejsca. Podchodzą, odchodzą, podchodzą, odchodzą… Nakręcają, choć nawet nie posłuchają. Obmacują i odkładają na miejsce. Potem kupują jakąś tandetną pamiątkę: dwanaście pięćdziesiąt, dziękuję uprzejmie, życzymy miłego dnia.<br>

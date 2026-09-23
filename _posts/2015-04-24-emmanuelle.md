@@ -3,6 +3,9 @@ layout: post
 title: Emmanuelle
 slug: emmanuelle
 date: 2015-04-24
+image:
+  path: /assets/images/emmanuelle.png
+  alt: Okładka wiersza Emmannuelle
 excerpt: "i tak od lat<br>
 <br>
 kot to, czy pat?"

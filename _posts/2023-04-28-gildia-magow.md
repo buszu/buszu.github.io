@@ -3,6 +3,9 @@ layout: post
 title: Gildia magów
 slug: gildia-magow
 date: 2023-04-28
+image:
+  path: /assets/images/gildia-magow.png
+  alt: Okładka wiersza Gildia magów
 excerpt: "Ktoś cię czasem ucieszy, ktoś cię czasem zrani,<br>
 czystym tylko powietrzem: oddechem i dźwiękiem;<br>
 te czary mają miejsce pomiędzy słowami."

@@ -3,6 +3,9 @@ layout: post
 title: "#hokuspokus"
 slug: hokuspokus
 date: 2016-04-02
+image:
+  path: /assets/images/hokuspokus.png
+  alt: Okładka wiersza hokuspokus
 excerpt: "może ci się wydawać cokolwiek<br>
 <br>
 i choćbym urwał w pół zdania"

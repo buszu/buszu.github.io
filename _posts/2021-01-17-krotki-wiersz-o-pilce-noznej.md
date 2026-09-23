@@ -3,6 +3,9 @@ layout: post
 title: Krótki wiersz o piłce nożnej
 slug: krotki-wiersz-o-pilce-noznej
 date: 2021-01-17
+image:
+  path: /assets/images/krotki-wiersz-o-pilce.png
+  alt: Okładka wiersza Krótki wiersz o piłce nożnej
 excerpt: "- mogą moi chłopcy z wami zagrać?<br>
 - ale oni nie umią grać<br>
 - a ty nie umiesz mówić"

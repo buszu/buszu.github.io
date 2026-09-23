@@ -3,6 +3,18 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
+  {%- if page.image -%}
+    {%- assign cover = page.image.path | default: page.image -%}
+    <figure class="post-cover">
+      <img
+        class="post-cover__img u-photo"
+        src="{{ cover | relative_url }}"
+        alt="{{ page.image.alt | default: page.title | escape }}"
+        itemprop="image"
+      >
+    </figure>
+  {%- endif -%}
+
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">

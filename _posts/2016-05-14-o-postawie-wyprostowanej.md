@@ -3,6 +3,9 @@ layout: post
 title: O postawie wyprostowanej
 slug: o-postawie-wyprostowanej
 date: 2016-05-14
+image:
+  path: /assets/images/o-postawie-wyprostowanej.png
+  alt: Okładka wiersza O postawie wyprostowanej
 excerpt: "Każdy se stawia pomnik swój<br>
 jak zwykły facet<br>
 sto rąk mam"

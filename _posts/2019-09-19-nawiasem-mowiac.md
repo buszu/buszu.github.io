@@ -3,6 +3,9 @@ layout: post
 title: Nawiasem mówiąc
 slug: nawiasem-mowiac
 date: 2019-09-19
+image:
+  path: /assets/images/nawiasem-mowiac.png
+  alt: Okładka wiersza Nawiasem mówiąc
 excerpt: "z całą pewnością stwierdzam<br>
 że rozmowa zawsze buduje<br>
 (niezrozumienie)"

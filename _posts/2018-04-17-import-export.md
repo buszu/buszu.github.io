@@ -3,6 +3,9 @@ layout: post
 title: Import/Export
 slug: import-export
 date: 2018-04-17
+image:
+  path: /assets/images/import-export.png
+  alt: Okładka wiersza Import/Export
 excerpt: "Po raz kolejny przekraczam granicę.<br>
 Jestem zbiegiem<br>
 okoliczności."

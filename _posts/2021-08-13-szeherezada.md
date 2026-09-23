@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Szeherezada
 slug: szeherezada
+title: Szeherezada
 date: 2021-08-13
+image:
+  path: /assets/images/szeherezada.png
+  alt: Okładka wiersza Szeherezada
 excerpt: "Może książę Persji?<br>
 Morze, piaski czasu"
 ---

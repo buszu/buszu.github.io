@@ -3,6 +3,9 @@ layout: post
 title: JSON Bourne
 slug: json-bourne
 date: 2019-01-08
+image:
+  path: /assets/images/json_bourne.png
+  alt: Okładka wiersza JSON Bourne
 excerpt: '<pre>{
 "wstęp": [
     "Musisz wybaczyć mi ten format",

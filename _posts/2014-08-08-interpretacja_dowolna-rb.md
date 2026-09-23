@@ -3,6 +3,9 @@ layout: post
 title: "interpretacja_dowolna.rb"
 slug: "interpretacja_dowolna-rb"
 date: 2014-08-08
+image:
+  path: /assets/images/interpretacja_dowolna_rb.png
+  alt: Okładka wiersza interpretacja_dowolna.rb
 excerpt: '<pre>begin
 # Być czy nie być? Też mi zagadka.
 </pre>'

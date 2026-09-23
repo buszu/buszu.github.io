@@ -3,6 +3,9 @@ layout: post
 title: Flashbang
 slug: flashbang
 date: 2022-12-04
+image:
+  path: /assets/images/flashbang.png
+  alt: Okładka wiersza Flashbang
 excerpt: "jest we mnie zwierzę<br>
 i święte słowo<br>
 jak?"

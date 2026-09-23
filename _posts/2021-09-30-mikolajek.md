@@ -3,6 +3,9 @@ layout: post
 title: Mikołajek
 slug: mikolajek
 date: 2021-09-30
+image:
+  path: /assets/images/mikolajek.png
+  alt: Okładka wiersza Mikołajek
 excerpt: "Mikołajek: to jest wiersz z tytułem inline, pisany w ałtobusie, co się ogólnie nie nadaje, no ale go nie wyrzucę, bo przecież takie też się zdarzają. Nawet nie wiem, co tu jeszcze muwić"
 ---
 Mikołajek: to jest wiersz z tytułem inline, pisany w ałtobusie, co się ogólnie nie nadaje, no ale go nie wyrzucę, bo przecież takie też się zdarzają. Nawet nie wiem, co tu jeszcze muwić, może to, że Mickiewicz to huj i mądrala, tak samo jak Ananiasz. A jak bym umiał, to bym mu dał fangę w nos, a jak bym umiał, to tak, jak Euzebiusz.<br>

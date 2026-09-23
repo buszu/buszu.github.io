@@ -3,6 +3,9 @@ layout: post
 title: Jednorożec
 slug: jednorozec
 date: 2025-11-10
+image:
+  path: /assets/images/jednorozec.png
+  alt: Okładka wiersza Jednorożec
 excerpt: "powiedzieć: kocham, to jak balonik<br>
 albo rewolwer z bębenkiem"
 ---

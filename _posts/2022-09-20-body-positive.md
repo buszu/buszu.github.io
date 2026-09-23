@@ -3,6 +3,9 @@ layout: post
 title: Body positive
 slug: body-positive
 date: 2022-09-20
+image:
+  path: /assets/images/body-positive.png
+  alt: Okładka wiersza Body positive
 excerpt: "tęga pani z torbą, z napisem<br>
 healthy food is my passion<br>
 siedziała na przystanku"

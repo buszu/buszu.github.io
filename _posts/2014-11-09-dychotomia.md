@@ -3,6 +3,9 @@ layout: post
 title: "Dychotomia"
 slug: "dychotomia"
 date: 2014-11-09
+image:
+  path: /assets/images/dychotomia.png
+  alt: Okładka wiersza Dychotomia
 excerpt: "Rozbieram cię, by<br>
 podziwiać z bliska<br>
 binarną anatomię"

@@ -3,6 +3,9 @@ layout: post
 title: Operator paradoksalny, czyli wiersz z przypisem*
 slug: operator-paradoksalny-czyli-wiersz-z-przypisem
 date: 2020-02-13
+image:
+  path: /assets/images/operator.png
+  alt: Okładka wiersza Operator paradoksalny, czyli wiersz z przypisem*
 excerpt: "chciałbym dla ciebie rzucić poezję<br>
 i pisać ci jednocześnie<br>
 wiązać sprzeczności ze sobą jak buty"

@@ -3,6 +3,9 @@ layout: post
 title: W chowanego
 slug: w-chowanego
 date: 2022-08-24
+image:
+  path: /assets/images/w-chowanego.png
+  alt: Okładka wiersza W chowanego
 excerpt: "Wyjdź z szafy,<br>
 Narnii już nie ma."
 ---

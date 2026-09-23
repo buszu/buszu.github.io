@@ -3,6 +3,9 @@ layout: post
 title: Piłkarzyki
 slug: pilkarzyki
 date: 2018-04-06
+image:
+  path: /assets/images/pilkarzyki.png
+  alt: Okładka wiersza Piłkarzyki
 excerpt: "Kontrolowałem drążki, władając jedenastoma,<br>
 Na dachu świata chorąży, z chłopkami pod rękoma."
 ---

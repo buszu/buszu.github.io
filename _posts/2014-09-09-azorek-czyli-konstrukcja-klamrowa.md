@@ -3,6 +3,9 @@ layout: post
 title: "Azorek, czyli konstrukcja klamrowa"
 slug: "azorek-czyli-konstrukcja-klamrowa"
 date: 2014-09-09
+image:
+  path: /assets/images/azorek.png
+  alt: Okładka wiersza Azorek, czyli konstrukcja klamrowa
 excerpt: "da<br>
 da<br>
 da"
